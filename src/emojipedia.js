@@ -34,7 +34,7 @@ const emojipedia = [
     emoji: "🤨",
     name: " Face With a Raised Eyebrow",
     meaning:
-      "With the questioning look on the face, resembles the actor “The Rock“ (Dwayne Johnson). Can be used to express skepticism, disbelief or disapproval."
+      "With the questioning look on the face, resembles the actor “The Rock“ (Dwayne Johnson). Can be used to express skepticism, disbelief or disapproval!"
   },
 
   {
